@@ -6,7 +6,7 @@
 This is an interactive web application that calculates a user's exact age in years, months, and days based on their input birthdate. It demonstrates core concepts of HTML, CSS, JavaScript, DOM manipulation, and package management, leveraging the Luxon library for date/time calculations and Flatpickr for a modern, responsive date picker.
 
 ### **Live Demo**  
-[Click here to try the Age Calculator!](https://github.com/sumeetbidhan/ageCalculator)
+[Click here to try the Age Calculator!](https://age-calculator-flax-one.vercel.app/)
 
 ---
 
